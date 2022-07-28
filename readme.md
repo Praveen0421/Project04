@@ -36,4 +36,4 @@ span {
 
 ![Thumbnail](thumbnail.png)
 
-**_Live link:_** [Project04](https://62e2e70d1034610201ca5012--graceful-smakager-afd705.netlify.app/"project04")
+**_Live link:_** [Project04](https://graceful-smakager-afd705.netlify.app/ "project04")
